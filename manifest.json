@@ -1,12 +1,12 @@
 {
-    "name": "home",
-    "short_name": "home",
+    "name": "Flutter Web",
+    "short_name": "flutter web",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#ffffff",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
@@ -19,5 +19,14 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ]
+    ],
+"theme": {
+  "colors": {
+    "frame": "black",
+    "tab_background_text": "white",
+    "tab_text": "white",
+    "toolbar": "black",
+    "bookmark_text": "red"
+  }
+}
 }
