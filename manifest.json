@@ -3,9 +3,9 @@
     "short_name": "flutter web",
     "start_url": ".",
     "display": "fullscreen",
-    "background_color": "#000000",
+    "background_color": "#888888",
     "theme_color": "#ff8800",
-    "description": "A new Flutter project.",
+    "description": "A Flutter Web project.",
     "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
